@@ -1,0 +1,3 @@
+[submodule "Python-ELM"]
+	path = Python-ELM
+	url = https://github.com/dclambert/Python-ELM.git
